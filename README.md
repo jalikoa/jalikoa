@@ -1,6 +1,6 @@
 - 👋 Hi, I’m CalVince Owino
 
-## Calvince Owino (t313jalikoa@gmail.com)
+## Calvince Owino (d34calvo@gmail.com)
 
 **Software Engineer | Cross-Platform App & Web Developer (3+ Years)**
 
