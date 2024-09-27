@@ -63,10 +63,16 @@ A lifelong learner, I'm constantly expanding my skillset. Currently, I'm explori
 I'm always eager to connect and collaborate with fellow developers. Feel free to reach out to me through:
 
 * Email: t313jalikoa@gmail.com
-* LinkedIn: [Your LinkedIn Profile URL]
-* Twitter: [Your Twitter Handle (if applicable)]
 
-## Badges:
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## Projects
+- [Project 1](https://github.com/yourusername/project1)
+- [Project 2](https://github.com/yourusername/project2)
 
 [![GitHub followers](https://img.shields.io/github/followers/t313machus?style=social)](https://github.com/t313machus)
 [![GitHub forks](https://img.shields.io/github/forks/t313machus/eccormece-web?style=social)](https://github.com/t313machus/eccormece-web)
