@@ -56,7 +56,7 @@ Developed a cutting-edge AI solution (**[Link to your Jalsoft AI Repo]** - `t313
 
 ## Learning & Growth:
 
-A lifelong learner, I'm constantly expanding my skillset. Currently, I'm exploring the exciting potential of Artificial Intelligence (AI) and Blockchain technology. You can find my technical discussions and explorations on my blog: [Link to your Blog (if applicable)]
+A lifelong learner, I'm constantly expanding my skillset. Currently, I'm exploring the exciting potential of Artificial Intelligence (AI) and Blockchain technology. You can find my technical discussions and explorations on my blog: [Link to your Blog (https://jalikoa.github.io/whatsappviews/)]
 
 ## Get in Touch:
 
@@ -66,17 +66,15 @@ I'm always eager to connect and collaborate with fellow developers. Feel free to
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jalikoa&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jalikoa&layout=compact&theme=radical)
 
 ## Projects
-- [Project 1](https://github.com/yourusername/project1)
-- [Project 2](https://github.com/yourusername/project2)
+- [Project 1](https://github.com/jalikoa/jalsoft)
+- [Project 2](https://github.com/jalikoa/schoolmanagement)
 
-[![GitHub followers](https://img.shields.io/github/followers/t313machus?style=social)](https://github.com/t313machus)
-[![GitHub forks](https://img.shields.io/github/forks/t313machus/eccormece-web?style=social)](https://github.com/t313machus/eccormece-web)
-[![GitHub stars](https://img.shields.io/github/stars/t313machus/eccormece-web?style=social)](https://github.com/t313machus/eccormece-web)
-[![GitHub commits](https://img.shields.io/github/commits/t313machus/eccormece-web?style=social)](https://github.com/t313machus/eccormece-web)
-[![GitHub issues](https://img.shields.io/github/issues/t313machus/eccormece-web?style=social)](https://github.com/t313machus/eccormece-web)
-[![Code
+[![GitHub followers](https://img.shields.io/github/followers/jalikoa?style=social)](https://github.com/jalikoa)
+[![GitHub forks](https://img.shields.io/github/forks/jalikoa/jalsoft?style=social)](https://github.com/jalikoa/jalsoft)
+[![GitHub stars](https://img.shields.io/github/stars/jalikoa/jalsoft?style=social)](https://github.com/jalikoa/jalsoft)
+[![GitHub issues](https://img.shields.io/github/issues/jalikoa/whatsappviews?style=social)](https://github.com/jalikoa/whatsappviews)
