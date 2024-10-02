@@ -66,7 +66,7 @@ I'm always eager to connect and collaborate with fellow developers. Feel free to
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jalikoa&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jalikoa&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jalikoa&layout=compact&theme=radical)
 
