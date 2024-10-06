@@ -35,7 +35,7 @@ I'm Calvince Owino, a passionate software engineer with over 3 years of experien
 
 **E-Commerce Website**
 
-I built a robust e-commerce website (**[Link to your E-commerce Repo/Website]** - `t313machus/eccormece-web`) that empowers businesses to seamlessly showcase and sell their products online. The platform leverages cutting-edge technologies (mention specific technologies used) to provide a user-friendly shopping experience with features like:
+I built a robust e-commerce website (**[https://github.com/jalikoa/eccormerce-web]** - `jalikoa/eccormece-web`) that empowers businesses to seamlessly showcase and sell their products online. The platform leverages cutting-edge technologies (mention specific technologies used) to provide a user-friendly shopping experience with features like:
 
 * **Product Management:** Easy product addition, editing, and categorization.
 * **Search & Filtering:** Intuitive search and filtering options for efficient product discovery.
@@ -44,15 +44,13 @@ I built a robust e-commerce website (**[Link to your E-commerce Repo/Website]** 
 
 **Jalsoft AI**
 
-Developed a cutting-edge AI solution (**[Link to your Jalsoft AI Repo]** - `t313machus/jalsoft-ai`) powered by machine learning (mention specific libraries/frameworks used). This project showcases my ability to leverage advanced technologies to create intelligent and innovative applications.
+Developed a cutting-edge AI solution (**[https://github.com/jalikoa/jalsoft-ai]** - `jalikoa/jalsoft-ai`) powered by machine learning (mention specific libraries/frameworks used). This project showcases my ability to leverage advanced technologies to create intelligent and innovative applications.
 
-**[Describe the functionalities and impact of Jalsoft AI in detail]**
-
-**Chat Web App** (Optional: If you have a chat web app project, add it here with details and link)
+**Chat Web App** I made a chat web app that allows people to connect in real time and interact as well as change ideas thus making chatting an interactive feature
 
 ## Open Source Contributions:
 
-* (List any open-source projects you've contributed to)
+* I have worked in many open source contributions including web apps with ajax features for making learning feasable
 
 ## Learning & Growth:
 
