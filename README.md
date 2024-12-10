@@ -55,7 +55,7 @@ Developed a cutting-edge AI solution (**[https://github.com/jalikoa/jalsoft-ai]*
 
 ## Learning & Growth:
 
-A lifelong learner, I'm constantly expanding my skillset. Currently, I'm exploring the exciting potential of Artificial Intelligence (AI) and Blockchain technology. You can find my technical discussions and explorations on my blog: [Link to your Blog (https://jalikoa.github.io/whatsappviews/)]
+A lifelong learner, I'm constantly expanding my skillset. Currently, I'm exploring the exciting potential of Artificial Intelligence (AI) and Blockchain technology. You can find my technical discussions and explorations on my blog: [(https://jalikoa.github.io/whatsappviews/)]
 
 ## Get in Touch:
 
@@ -67,11 +67,11 @@ I'm always eager to connect and collaborate with fellow developers. Feel free to
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jalikoa&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jalikoa&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jalikoa&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalikoa&layout=compact&theme=radical)
 
 ## Projects
-- [Project 1](https://github.com/jalikoa/jalsoft)
-- [Project 2](https://github.com/jalikoa/schoolmanagement)
+- [Portfolio](https://github.com/jalikoa/jalsoft)
+- [Schoolmanagement](https://github.com/jalikoa/schoolmanagement)
 
 [![GitHub followers](https://img.shields.io/github/followers/jalikoa?style=social)](https://github.com/jalikoa)
 [![GitHub forks](https://img.shields.io/github/forks/jalikoa/jalsoft?style=social)](https://github.com/jalikoa/jalsoft)
