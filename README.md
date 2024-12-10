@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Jalikoa&color=blue)
 - 👋 Hi, I’m CalVince Owino
 
 ## Calvince Owino (d34calvo@gmail.com)
