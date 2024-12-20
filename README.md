@@ -30,7 +30,7 @@ I'm Calvince Owino, a passionate software engineer with over 3 years of experien
     * Progressive Web Apps (PWAs)
     * Portal Development
     * Version Control (Git)
-    * CI/CD Pipelines (Optional: List specific tools if you have experience)
+    * CI/CD Pipelines (Github actions)
 
 ## Projects:
 
