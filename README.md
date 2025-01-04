@@ -50,7 +50,14 @@ I'm **Calvince Owino**, a passionate software engineer with over **3 years of ex
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+### **Embedded Systems**
+![Arduino](https://img.shields.io/badge/Embedded%20Systems-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP8266](https://img.shields.io/badge/Embedded%20Systems-ESP8266-4C8C29?style=for-the-badge&logo=esp8266&logoColor=white)
+![ESP32](https://img.shields.io/badge/Embedded%20Systems-ESP32-7A8B8B?style=for-the-badge&logo=esp32&logoColor=white)
+![C++](https://img.shields.io/badge/Programming%20Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/Programming%20Language-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
+---
 ## **🌟 Featured Projects**
 
 ### **E-Commerce Website**
