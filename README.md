@@ -24,38 +24,17 @@ I'm **Calvince Owino**, a passionate software engineer with over **3 years of ex
 ![HTML5](https://img.shields.io/badge/Frontend-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/Frontend-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Framework-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/Framework-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### **Backend Development**
 ![PHP](https://img.shields.io/badge/Backend-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/Framework-Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Python](https://img.shields.io/badge/Backend-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Framework-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### **Mobile Development**
-![Java](https://img.shields.io/badge/Mobile_Dev-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Mobile_Dev-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Mobile_Dev-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Cross_Platform-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### **Game Development**
-![C](https://img.shields.io/badge/Programming-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/Programming-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+[![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-### **Embedded Systems**
-![Arduino](https://img.shields.io/badge/Embedded%20Systems-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/Embedded%20Systems-ESP8266-4C8C29?style=for-the-badge&logo=esp8266&logoColor=white)
-![ESP32](https://img.shields.io/badge/Embedded%20Systems-ESP32-7A8B8B?style=for-the-badge&logo=esp32&logoColor=white)
-![C++](https://img.shields.io/badge/Programming%20Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/Programming%20Language-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 ## **🌟 Featured Projects**
