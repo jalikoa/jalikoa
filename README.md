@@ -4,9 +4,9 @@
 
 ## **Calvince Owino** - [d34calvo@gmail.com](mailto:d34calvo@gmail.com)
 
-**Software Engineer | Cross-Platform App & Web Developer (3+ Years)**
+**Software Engineer | Web Developer (3+ Years)**
 
-I'm **Calvince Owino**, a passionate software engineer with over **3 years of experience** crafting user-centric, cross-platform applications and immersive web experiences. My diverse skillset spans **frontend and backend development**, **mobile app creation**, **game development**, and more.
+I'm **Calvince Owino**, a passionate software engineer with over **3 years of experience** crafting user-centric, cross-platform applications and immersive web experiences. My diverse skillset spans **frontend and backend development**, and more.
 
 ---
 
